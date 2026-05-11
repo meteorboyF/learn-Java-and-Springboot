@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pandoc \"D:\\\\Learning\\\\Springboot\\\\springboot_practice_problems.docx\" -t plain)",
+      "PowerShell(pandoc \"D:\\\\Learning\\\\Springboot\\\\springboot_practice_problems.docx\" -t plain 2>&1)"
+    ]
+  }
+}
